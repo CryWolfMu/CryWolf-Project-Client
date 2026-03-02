@@ -1,6 +1,6 @@
 # UA CryWolf Project Installer 🐺 
 
-[Official Website](https://crywolf.online/register) | [Discord Community](https://discord.gg/9npy2Kk5Nt)
+[Official Website](https://crywolf.online/) | [Discord Community](https://discord.gg/9npy2Kk5Nt)
 
 Ласкаво просимо! Це офіційний інсталятор нашого проекту **Mu Online Season 2**.
 
